@@ -26,7 +26,7 @@ JavaScript (ES6):
 
 Game loop using setInterval.
 
-Thery of Computer Graphics was Aplied to Create Graphics
+Theory of Computer Graphics was Applied to Create Graphics
 
 Keyboard event listeners.
 
