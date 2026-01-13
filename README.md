@@ -22,11 +22,16 @@ Restart: After a Game Over, an alert will show your score, and the page will aut
  # Built With
 HTML
 
-JavaScript (ES6):
+JavaScript (ES6):  
+
 Game loop using setInterval.
+
 Thery of Computer Graphics was Aplied to Create Graphics
+
 Keyboard event listeners.
+
 Collision detection logic.
+
 Dynamic coordinate generation for food.
 
 # File Structure
